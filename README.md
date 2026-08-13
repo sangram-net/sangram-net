@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./kuVKnd.png" width="100%" />
+<img src="https://raw.githubusercontent.com/sangram-net/sangram-net/main/assets/banner.png" width="100%" />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Red+Team+Learner;Linux+Enthusiast;Python+%7C+Networking+%7C+Security;Red+Team+in+progress+%E2%9A%A1" />
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=sangram-net&label=PROFILE+VIEWS&color=00e676&style=flat-square" />
 
