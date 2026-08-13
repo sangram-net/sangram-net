@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://wallpapercat.com/w/full/5/1/7/118602-3840x2160-desktop-4k-your-name-wallpaper-photo.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/sangram-net/sangram-net/main/kuVKnd.png" width="100%" />
 
 <br><br>
 
