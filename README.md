@@ -4,8 +4,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sangram-net&label=PROFILE+VIEWS&color=00e676&style=flat-square" />
-
 </div>
 
 ---
