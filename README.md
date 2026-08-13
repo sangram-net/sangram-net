@@ -2,9 +2,9 @@
 
 # `> whoami`
 
-### `Cybersecurity Student • Red Team Learner • Linux Enthusiast`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Red+Team+Learner;Linux+Enthusiast;Python+%7C+Networking+%7C+Security;Red+Team+in+progress+%E2%9A%A1" />
 
-<img src="https://komarev.com/ghpvc/?username=sangram-net&label=PROFILE+VIEWS&color=00e676&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sangram-net&label=PROFILE+VIEWS&color=00e676&style=flat-square" />
 
 </div>
 
@@ -14,19 +14,13 @@
 
 ```text
 ┌──[sangram@github]─[~]
-└─$ cat about.txt
+└─$ whoami
 
-Name        : Sangram
-Username    : sangram-net
-Focus       : Cybersecurity / Red Team
-Environment : Linux
-Languages   : Python • C • JavaScript
-Interests   : Networking • Linux • Ethical Hacking
-Currently   : Building skills & security projects
-Status      : Red Team in progress ⚡
+Cybersecurity Student
+Red Team Learner
+Linux Enthusiast
+Python • Networking • Security
 ```
-
-> **"Understand the system. Understand the weakness. Build it better."**
 
 ---
 
@@ -35,13 +29,13 @@ Status      : Red Team in progress ⚡
 ### Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,bash&theme=dark" alt="Programming Skills" />
+<img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,bash&theme=dark" />
 </p>
 
 ### Cybersecurity & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws,mysql,mongodb,postman&theme=dark" alt="Cybersecurity and Infrastructure Skills" />
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws,mysql,mongodb,postman&theme=dark" />
 </p>
 
 ---
@@ -51,16 +45,16 @@ Status      : Red Team in progress ⚡
 <p align="center">
 
 <a href="https://twitter.com/sack24x">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sangramcloud">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/sangram-net">
-  <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 <a href="https://www.hackerearth.com/@domain_sangram">
-  <img src="https://img.shields.io/badge/HACKEREARTH-000000?style=for-the-badge&logo=hackerearth&logoColor=00e676" alt="HackerEarth" />
+<img src="https://img.shields.io/badge/HACKEREARTH-000000?style=for-the-badge&logo=hackerearth&logoColor=00e676" />
 </a>
 
 </p>
