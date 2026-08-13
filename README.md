@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sangram-net/sangram-net/main/kuVKnd.png" width="100%" />
+<img src="./banner.png" width="100%" />
 
 <br><br>
 
