@@ -19,23 +19,10 @@
   </a>
 </p>
 
----
-
-## 🖥️ `whoami`
-
-```bash
-┌──[sangram@parrot]─[~]
-└──╼ $ whoami
-
 Cybersecurity learner focused on Linux, networking,
 Python, ethical hacking and cloud security.
 ```
 
-I'm currently pursuing my **BCA** and building practical skills through projects, Linux labs, networking, cybersecurity tools, and hands-on experimentation.
-
-I like learning by **building, breaking, debugging, and understanding how things actually work.**
-
----
 
 ## 🛠️ Tech Stack
 
