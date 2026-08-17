@@ -4,11 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Python+Developer;Red+Team+in+Progress+%E2%9A%A1;Linux+%7C+Cloud+%7C+Security">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,java,bash,git,nodejs,npm,docker,vscode,linux,debian,ubuntu,github,parrot,nginx&perline=9">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,java,bash,git,nodejs,npm,docker,vscode,linux,debian,ubuntu,github,kali,nginx&perline=9">
 
 <br><br>
 
