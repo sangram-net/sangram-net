@@ -5,49 +5,27 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,java,bash,git,nodejs,npm,docker,vscode,linux,debian,ubuntu,github,firefox,libreoffice,qemu,neovim,tmux&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,java,bash,git&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,docker,vscode,linux,debian,ubuntu,github&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cmake,firefox,neovim,tmux,qemu&perline=5" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square&logo=nmap&logoColor=4FC3F7">
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7">
-  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633">
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/SQLmap-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Gobuster-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Nikto-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Aircrack--ng-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/FFUF-111111?style=flat-square">
+  Nmap&nbsp; • &nbsp;Wireshark&nbsp; • &nbsp;Burp Suite&nbsp; • &nbsp;Metasploit&nbsp; • &nbsp;Hashcat&nbsp; • &nbsp;John the Ripper&nbsp; • &nbsp;SQLmap&nbsp; • &nbsp;Gobuster&nbsp; • &nbsp;Nikto&nbsp; • &nbsp;Hydra&nbsp; • &nbsp;Aircrack-ng&nbsp; • &nbsp;FFUF
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TCPdump-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/OpenVPN-111111?style=flat-square&logo=openvpn&logoColor=EA7E20">
-  <img src="https://img.shields.io/badge/WireGuard-111111?style=flat-square&logo=wireguard&logoColor=88171A">
-  <img src="https://img.shields.io/badge/SSH-111111?style=flat-square&logo=openssh">
-  <img src="https://img.shields.io/badge/DNS%20%2F%20Dig-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Netcat-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Remmina-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/QEMU-111111?style=flat-square&logo=qemu&logoColor=FF6600">
-  <img src="https://img.shields.io/badge/Virtualization-111111?style=flat-square">
+  TCPdump&nbsp; • &nbsp;OpenVPN&nbsp; • &nbsp;WireGuard&nbsp; • &nbsp;SSH&nbsp; • &nbsp;DNS / Dig&nbsp; • &nbsp;Netcat&nbsp; • &nbsp;Remmina&nbsp; • &nbsp;QEMU&nbsp; • &nbsp;Virtualization
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ripgrep-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/fd-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/JQ-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/HTOP-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Btop-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Fastfetch-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Wget-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/cURL-111111?style=flat-square&logo=curl&logoColor=073551">
-  <img src="https://img.shields.io/badge/7--Zip-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Zip-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Traceroute-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Flameshot-111111?style=flat-square">
+  ripgrep&nbsp; • &nbsp;fd&nbsp; • &nbsp;jq&nbsp; • &nbsp;htop&nbsp; • &nbsp;btop&nbsp; • &nbsp;fastfetch&nbsp; • &nbsp;wget&nbsp; • &nbsp;curl&nbsp; • &nbsp;7-Zip&nbsp; • &nbsp;zip&nbsp; • &nbsp;traceroute&nbsp; • &nbsp;Flameshot
 </p>
