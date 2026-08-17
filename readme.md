@@ -27,13 +27,8 @@ focus:
   - Cloud Security
 
 currently_learning:
-  - Ethical Hacking
-  - Network Security
-  - Web Security
-  - Cloud Security
-  - Automation
-```
-
+  - Ethical Hacking - Network Security - Web Security - Cloud Security - Automation
+ 
 ---
 
 ### 🛠️ Tech Stack
