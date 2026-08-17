@@ -32,10 +32,6 @@ currently_learning:
   - Web Security
   - Cloud Security
   - Automation
-
-os: Parrot Security OS
-editor: VS Code
-shell: Bash
 ```
 
 ---
