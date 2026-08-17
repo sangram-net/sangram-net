@@ -5,49 +5,39 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,java,bash,git,gcc,cmake,nodejs,npm,docker,vscode,linux,debian,ubuntu,github,firefox,libreoffice,qemu&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,java,bash,git&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-111111?style=flat-square&logo=nmap&logoColor=4FC3F7">
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7">
-  <img src="https://img.shields.io/badge/Burp%20Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633">
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square&logo=metasploit">
-  <img src="https://img.shields.io/badge/Hashcat-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/SQLmap-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Gobuster-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Nikto-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Aircrack--ng-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/FFUF-111111?style=flat-square">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,docker,vscode,linux,debian,ubuntu,github&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TCPdump-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/OpenVPN-111111?style=flat-square&logo=openvpn&logoColor=EA7E20">
-  <img src="https://img.shields.io/badge/WireGuard-111111?style=flat-square&logo=wireguard&logoColor=88171A">
-  <img src="https://img.shields.io/badge/SSH-111111?style=flat-square&logo=openssh">
-  <img src="https://img.shields.io/badge/DNS%2FDig-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Netcat-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Remmina-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/QEMU-111111?style=flat-square&logo=qemu&logoColor=FF6600">
-  <img src="https://img.shields.io/badge/Virtual%20Machine-111111?style=flat-square">
+  <img src="https://skillicons.dev/icons?i=firefox,libreoffice,qemu,neovim,tmux,curl&perline=6" />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    Nmap&nbsp;&nbsp;•&nbsp;&nbsp;Wireshark&nbsp;&nbsp;•&nbsp;&nbsp;Burp Suite&nbsp;&nbsp;•&nbsp;&nbsp;Metasploit&nbsp;&nbsp;•&nbsp;&nbsp;Hashcat&nbsp;&nbsp;•&nbsp;&nbsp;John the Ripper&nbsp;&nbsp;•&nbsp;&nbsp;SQLmap&nbsp;&nbsp;•&nbsp;&nbsp;Gobuster
+  </sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Neovim-111111?style=flat-square&logo=neovim&logoColor=57A143">
-  <img src="https://img.shields.io/badge/Tmux-111111?style=flat-square&logo=tmux">
-  <img src="https://img.shields.io/badge/ripgrep-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/fd-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/JQ-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/HTOP-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Btop-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Fastfetch-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/cURL-111111?style=flat-square&logo=curl">
-  <img src="https://img.shields.io/badge/Wget-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/7--Zip-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Zip-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Traceroute-111111?style=flat-square">
-  <img src="https://img.shields.io/badge/Flameshot-111111?style=flat-square">
+  <sub>
+    Nikto&nbsp;&nbsp;•&nbsp;&nbsp;Hydra&nbsp;&nbsp;•&nbsp;&nbsp;Aircrack-ng&nbsp;&nbsp;•&nbsp;&nbsp;FFUF&nbsp;&nbsp;•&nbsp;&nbsp;TCPdump&nbsp;&nbsp;•&nbsp;&nbsp;OpenVPN&nbsp;&nbsp;•&nbsp;&nbsp;WireGuard&nbsp;&nbsp;•&nbsp;&nbsp;SSH
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    DNS / Dig&nbsp;&nbsp;•&nbsp;&nbsp;Netcat&nbsp;&nbsp;•&nbsp;&nbsp;Remmina&nbsp;&nbsp;•&nbsp;&nbsp;QEMU&nbsp;&nbsp;•&nbsp;&nbsp;Virtualization&nbsp;&nbsp;•&nbsp;&nbsp;ripgrep&nbsp;&nbsp;•&nbsp;&nbsp;fd&nbsp;&nbsp;•&nbsp;&nbsp;jq
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    htop&nbsp;&nbsp;•&nbsp;&nbsp;btop&nbsp;&nbsp;•&nbsp;&nbsp;fastfetch&nbsp;&nbsp;•&nbsp;&nbsp;wget&nbsp;&nbsp;•&nbsp;&nbsp;7-Zip&nbsp;&nbsp;•&nbsp;&nbsp;zip&nbsp;&nbsp;•&nbsp;&nbsp;traceroute&nbsp;&nbsp;•&nbsp;&nbsp;Flameshot
+  </sub>
 </p>
