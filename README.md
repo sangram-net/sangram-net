@@ -1,35 +1,42 @@
 <div align="center">
 
-<img src="./cats.gif" width="100%" alt="Animated Anime Cats">
+<!-- Put your animated running-cat GIF in the repository as: cats.gif -->
+
+<img src="./cats.gif" width="100%" alt="Running Anime Cat">
 
 <br>
 
 # `sangram-net`
 
-**Cybersecurity Student • Linux • Python**
+**Cybersecurity Student · Linux · Python**
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,linux,git,github,docker&theme=dark" alt="Programming and Development Skills">
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,linux,git,github,docker&theme=dark" alt="Programming Languages and Tools">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=4FC3F7" alt="Nmap">
-<img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark">
-<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite">
-<img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=FFFFFF" alt="Metasploit">
+<img src="https://img.shields.io/badge/Nmap-161B22?style=flat-square&logo=nmap&logoColor=58A6FF" alt="Nmap">
+<img src="https://img.shields.io/badge/Wireshark-161B22?style=flat-square&logo=wireshark&logoColor=58A6FF" alt="Wireshark">
+<img src="https://img.shields.io/badge/Burp%20Suite-161B22?style=flat-square&logo=burpsuite&logoColor=FF6633" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Metasploit-161B22?style=flat-square&logo=metasploit&logoColor=FFFFFF" alt="Metasploit">
 
 <br><br>
 
-`Linux` • `Networking` • `Cybersecurity` • `Python`
-
-<br>
-
-<a href="https://github.com/sangram-net">GitHub</a>
-  •   <a href="https://www.linkedin.com/in/sangramcloud">LinkedIn</a>
+`Linux` · `Networking` · `Cybersecurity` · `Python`
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sangram-net&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats">
+<a href="https://github.com/sangram-net">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/sangramcloud">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<br><br>
+
+<sub>⚡ Learn · Build · Break · Secure</sub>
 
 </div>
