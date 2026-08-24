@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Put your animated running-cat GIF in the repository as: cats.gif -->
+<!-- Put your animated running-cat GIF in the repository as: cats.png -->
 
-<img src="./cats.gif" width="100%" alt="Running Anime Cat">
+<img src="./cats.png" width="100%" alt="Running Anime Cat">
 
 
 Cybersecurity Student · Linux · Python
