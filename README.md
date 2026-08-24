@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="./cat.gif" width="180">
+<img src="./cats.gif" width="100%" alt="Animated Anime Cats">
+
+<br>
 
 # `sangram-net`
 
 **Cybersecurity Student • Linux • Python**
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,linux,git,github,docker" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,linux,git,github,docker&theme=dark">
 
 <br><br>
 
@@ -14,7 +18,6 @@
 <img src="https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=1679A7">
 <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633">
 <img src="https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032">
 
 <br><br>
 
