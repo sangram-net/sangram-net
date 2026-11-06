@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**sangram-net/sangram-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Sangram Ganguly
 
-Here are some ideas to get you started:
+Cybersecurity enthusiast | Python & Rust learner | Cloud Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in cybersecurity, ethical hacking, Linux, networking and cloud infrastructure.
+
+### Currently Learning
+- Python
+- Rust
+- Network Security
+- Cloud Computing
+
+### Areas of Interest
+- Offensive Security
+- Defensive Security
+- Cloud & DevSecOps
+- Linux Systems
+
