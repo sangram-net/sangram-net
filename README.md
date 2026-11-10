@@ -1,4 +1,4 @@
-<!-- Replace every USERNAME with your GitHub username -->
+<!-- Replace YOUR-LINKEDIN-HANDLE with your LinkedIn profile handle -->
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d2240?style=flat-square&logo=linkedin&logoColor=3ddc97" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0d2240?style=flat-square&logo=linkedin&logoColor=3ddc97" alt="LinkedIn"/></a>
 
 </div>
 
@@ -66,8 +66,8 @@ Experience  Network Service Engineer Intern, Cybersecurity Intern, IT Intern
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0a1428&title_color=3ddc97&icon_color=3ddc97&text_color=c9d6ea" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0a1428&title_color=3ddc97&text_color=c9d6ea" alt="top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sangram-net&show_icons=true&hide_border=true&bg_color=0a1428&title_color=3ddc97&icon_color=3ddc97&text_color=c9d6ea" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram-net&layout=compact&hide_border=true&bg_color=0a1428&title_color=3ddc97&text_color=c9d6ea" alt="top languages"/>
 
 </div>
 
