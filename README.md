@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sangram Ganguly
+Sangram Ganguly
 
 ### Cybersecurity : Linux : Networking
 
