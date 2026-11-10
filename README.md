@@ -1,47 +1,17 @@
-<!-- Replace YOUR-LINKEDIN-HANDLE with your LinkedIn profile handle -->
+# Hi 👋, I'm Sangram Ganguly
 
-<div align="center">
+### Cybersecurity : Linux : Networking
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0a1428&text=Sangram&fontColor=3ddc97&fontSize=48&fontAlignY=38&desc=Cybersecurity%20%7C%20Ethical%20Hacking%20%7C%20Kolkata&descColor=9fb3d1&descSize=16&descAlignY=58" width="100%" alt="header"/>
+- 👨‍💻 All of my projects are available at **[https://sangram.codes/](https://sangram.codes/)**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3DDC97&center=true&vCenter=true&width=520&lines=Aspiring+Penetration+Tester;BCA+Cybersecurity+Student;Arch+Linux+user;Breaking+things+to+secure+them" alt="typing animation"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/sangram-net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sangram-net" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sangramcloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangramcloud" height="30" width="40" /></a>
+<a href="https://instagram.com/sangram_x00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangram_x00" height="30" width="40" /></a>
+<a href="https://twitter.com/sangramexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangramexe" height="30" width="40" /></a>
+</p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/quasar" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a></p>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0d2240?style=flat-square&logo=linkedin&logoColor=3ddc97" alt="LinkedIn"/></a>
-
-
-
-## Stack
-
-<div align="center">
-
-**Languages & Web**<br/>
-<img src="https://img.shields.io/badge/HTML-0d2240?style=flat-square&logo=html5&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/CSS-0d2240?style=flat-square&logo=css3&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/JavaScript-0d2240?style=flat-square&logo=javascript&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Python-0d2240?style=flat-square&logo=python&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Rust-0d2240?style=flat-square&logo=rust&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/C-0d2240?style=flat-square&logo=c&logoColor=3ddc97"/>
-
-**Frameworks**<br/>
-<img src="https://img.shields.io/badge/Node.js-0d2240?style=flat-square&logo=nodedotjs&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/React-0d2240?style=flat-square&logo=react&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/React%20Native-0d2240?style=flat-square&logo=react&logoColor=3ddc97"/>
-
-**Databases & Tools**<br/>
-<img src="https://img.shields.io/badge/MongoDB-0d2240?style=flat-square&logo=mongodb&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/MySQL-0d2240?style=flat-square&logo=mysql&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Redis-0d2240?style=flat-square&logo=redis&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Firebase-0d2240?style=flat-square&logo=firebase&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Git-0d2240?style=flat-square&logo=git&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Linux-0d2240?style=flat-square&logo=linux&logoColor=3ddc97"/>
-
-**Security**<br/>
-<img src="https://img.shields.io/badge/Nmap-0d2240?style=flat-square&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Wireshark-0d2240?style=flat-square&logo=wireshark&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-0d2240?style=flat-square&logo=burpsuite&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Metasploit-0d2240?style=flat-square&logo=metasploit&logoColor=3ddc97"/>
-<img src="https://img.shields.io/badge/Hashcat-0d2240?style=flat-square&logoColor=3ddc97"/>
