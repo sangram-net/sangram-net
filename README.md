@@ -12,6 +12,26 @@
 
 \</div>
 
+---
+
+## `whoami`
+
+```bash
+┌──(sangram㉿kali)-[~]
+└─$ whoami
+
+Cybersecurity enthusiast & software developer
+Exploring systems, networks and secure technologies.
+```
+
+- Learning **Python, C, Rust and JavaScript**
+- Exploring Cybersecurity, Linux and Networking
+- Interested in Ethical Hacking, Cloud Security and System Engineering
+- Building practical projects and open-source tools
+- Believe in learning by building.
+
+---
+
 ## `01 / TECH STACK`
 
 \<div align="center">
