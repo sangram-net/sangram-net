@@ -1,16 +1,16 @@
-&#x20;\<div align="center">
+ <div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:15191E,100:202830&height=190&section=header&text=SANGRAM%20GANGULY&fontSize=42&fontColor=A3E635&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOFTWARE%20ENGINEERING&descSize=13&descColor=94A3B8&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:15191E,100:202830\&height=190\&section=header\&text=SANGRAM%20GANGULY\&fontSize=42\&fontColor=A3E635\&fontAlignY=38\&desc=CYBERSECURITY%20%7C%20SOFTWARE%20ENGINEERING\&descSize=13\&descColor=94A3B8\&animation=fadeIn)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:15191E,100:202830&height=190&section=header&text=SANGRAM%20GANGULY&fontSize=42&fontColor=A3E635&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOFTWARE%20ENGINEERING&descSize=13&descColor=94A3B8&animation=fadeIn" width="100%"/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Future+Security+Engineer;Learning+Python+%7C+C+%7C+Rust+%7C+JavaScript;Building.+Breaking.+Learning.+Repeating](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=17\&duration=3000\&pause=1000\&color=A3E635\&center=true\&vCenter=true\&width=650\&lines=Cybersecurity+Enthusiast;Future+Security+Engineer;Learning+Python+%7C+C+%7C+Rust+%7C+JavaScript;Building.+Breaking.+Learning.+Repeating)." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Future+Security+Engineer;Learning+Python+%7C+C+%7C+Rust+%7C+JavaScript;Building.+Breaking.+Learning.+Repeating." />
 
-\<br/>
+<br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-15191E?style=for-the-badge&logo=github&logoColor=A3E635)](https://github.com/sangram-net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15191E?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/sangramcloud)
+[![Instagram](https://img.shields.io/badge/Instagram-15191E?style=for-the-badge&logo=instagram&logoColor=A3E635)](https://instagram.com/cyber_sangram)
 
-\
-
-
-\</div>
+</div>
 
 ---
 
@@ -34,41 +34,41 @@ Exploring systems, networks and secure technologies.
 
 ## `01 / TECH STACK`
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://skillicons.dev/icons?i=python,c,rust,js,bash,html,css&theme=dark](https://skillicons.dev/icons?i=python,c,rust,js,bash,html,css\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=python,c,rust,js,bash,html,css&theme=dark" />
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://skillicons.dev/icons?i=linux,kali,arch,docker,git,github,vscode,vim&theme=dark](https://skillicons.dev/icons?i=linux,kali,arch,docker,git,github,vscode,vim\&theme=dark)" />
+<img src="https://skillicons.dev/icons?i=linux,kali,arch,docker,git,github,vscode,vim&theme=dark" />
 
-\</div>
+</div>
 
 ---
 
 ## `02 / GITHUB STATISTICS`
 
-\<div align="center">
+<div align="center">
 
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=sangram-net&show_icons=true&hide_border=true&bg_color=15191E&title_color=A3E635&icon_color=67E8F9&text_color=C9D1D9&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=sangram-net\&show_icons=true\&hide_border=true\&bg_color=15191E\&title_color=A3E635\&icon_color=67E8F9\&text_color=C9D1D9\&include_all_commits=true)" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sangram-net&show_icons=true&hide_border=true&bg_color=15191E&title_color=A3E635&icon_color=67E8F9&text_color=C9D1D9&include_all_commits=true" />
 
-\<img height="165" src="[https://github-readme-streak-stats.herokuapp.com/?user=sangram-net&hide_border=true&background=15191E&ring=A3E635&fire=67E8F9&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=94A3B8](https://github-readme-streak-stats.herokuapp.com/?user=sangram-net\&hide_border=true\&background=15191E\&ring=A3E635\&fire=67E8F9\&currStreakLabel=A3E635\&sideLabels=C9D1D9\&dates=94A3B8)" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sangram-net&hide_border=true&background=15191E&ring=A3E635&fire=67E8F9&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=94A3B8" />
 
-\<br/>
+<br/>
 
-\<img width="55%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sangram-net&layout=compact&hide_border=true&bg_color=15191E&title_color=A3E635&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=sangram-net\&layout=compact\&hide_border=true\&bg_color=15191E\&title_color=A3E635\&text_color=C9D1D9)" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangram-net&layout=compact&hide_border=true&bg_color=15191E&title_color=A3E635&text_color=C9D1D9" />
 
-\</div>
+</div>
 
 ---
 
 ## `03 / CONTRIBUTION GRAPH`
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
-\</div>
+</div>
 
 ---
 
@@ -89,22 +89,24 @@ Exploring systems, networks and secure technologies.
 
 ## `05 / PROJECTS`
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/sangram-net?tab=repositories](https://github.com/sangram-net?tab=repositories)"> \<img src="[https://img.shields.io/badge/Explore_My_Repositories-202830?style=for-the-badge&logo=github&logoColor=A3E635](https://img.shields.io/badge/Explore_My_Repositories-202830?style=for-the-badge\&logo=github\&logoColor=A3E635)"/> \</a>
+<a href="https://github.com/sangram-net?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-202830?style=for-the-badge&logo=github&logoColor=A3E635"/>
+</a>
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### `THINK DEEP. BUILD SECURE. STAY CURIOUS.`
 
-\<img src="[https://komarev.com/ghpvc/?username=sangram-net&style=flat-square&color=A3E635&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=sangram-net\&style=flat-square\&color=A3E635\&label=PROFILE+VIEWS)"/>
+<img src="https://komarev.com/ghpvc/?username=sangram-net&style=flat-square&color=A3E635&label=PROFILE+VIEWS"/>
 
-\<br/>
+<br/>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:202830,100:15191E&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:202830,100:15191E\&height=100\&section=footer)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:202830,100:15191E&height=100&section=footer"/>
 
-\</div>
+</div>
