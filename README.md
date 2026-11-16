@@ -2,7 +2,7 @@
 
 <img src="assets/sakura.gif" width="100%" alt="Falling cherry blossoms"/>
 
-# sangram
+# Sangram
 
 *Cybersecurity · Software Development*
 
