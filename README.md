@@ -1,62 +1,90 @@
+&#x20;\<div align="center">
 
-<div align="center">
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:15191E,100:202830&height=190&section=header&text=SANGRAM%20GANGULY&fontSize=42&fontColor=A3E635&fontAlignY=38&desc=CYBERSECURITY%20%7C%20SOFTWARE%20ENGINEERING&descSize=13&descColor=94A3B8&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:15191E,100:202830\&height=190\&section=header\&text=SANGRAM%20GANGULY\&fontSize=42\&fontColor=A3E635\&fontAlignY=38\&desc=CYBERSECURITY%20%7C%20SOFTWARE%20ENGINEERING\&descSize=13\&descColor=94A3B8\&animation=fadeIn)" width="100%"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake.svg">
-</picture>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Future+Security+Engineer;Learning+Python+%7C+C+%7C+Rust+%7C+JavaScript;Building.+Breaking.+Learning.+Repeating](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=17\&duration=3000\&pause=1000\&color=A3E635\&center=true\&vCenter=true\&width=650\&lines=Cybersecurity+Enthusiast;Future+Security+Engineer;Learning+Python+%7C+C+%7C+Rust+%7C+JavaScript;Building.+Breaking.+Learning.+Repeating)." />
 
-</div>
+\<br/>
 
----
 
-<h3 align="left">Languages and Tools:</h3>
+\
 
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a>
-<a href="https://quasar.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-plain.svg" alt="Quasar" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/></a>
-</p>
+
+\</div>
+
+## `01 / TECH STACK`
+
+\<div align="center">
+
+\<img src="[https://skillicons.dev/icons?i=python,c,rust,js,bash,html,css&theme=dark](https://skillicons.dev/icons?i=python,c,rust,js,bash,html,css\&theme=dark)" />
+
+\<br/>\<br/>
+
+\<img src="[https://skillicons.dev/icons?i=linux,kali,arch,docker,git,github,vscode,vim&theme=dark](https://skillicons.dev/icons?i=linux,kali,arch,docker,git,github,vscode,vim\&theme=dark)" />
+
+\</div>
 
 ---
 
-<h3 align="left">Cybersecurity & Ethical Hacking:</h3>
+## `02 / GITHUB STATISTICS`
 
-<p align="left">
-<a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/></a>
-<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
-<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/></a>
-<a href="https://sqlmap.org/"><img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white" alt="SQLmap"/></a>
-<a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="Ghidra"/></a>
-<a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-222222?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashcat"/></a>
-<a href="https://www.zaproxy.org/"><img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/></a>
-<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/></a>
-<a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/John_the_Ripper-333333?style=for-the-badge&logo=linux&logoColor=white" alt="John the Ripper"/></a>
-<a href="https://github.com/vanhauser-thc/thc-hydra"><img src="https://img.shields.io/badge/Hydra-444444?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Hydra"/></a>
-<a href="https://github.com/OJ/gobuster"><img src="https://img.shields.io/badge/Gobuster-222222?style=for-the-badge&logo=github&logoColor=white" alt="Gobuster"/></a>
-<a href="https://cirt.net/Nikto2"><img src="https://img.shields.io/badge/Nikto-1679A7?style=for-the-badge&logo=linux&logoColor=white" alt="Nikto"/></a>
-<a href="https://nmap.org/ncat/"><img src="https://img.shields.io/badge/Netcat-222222?style=for-the-badge&logo=gnubash&logoColor=white" alt="Netcat"/></a>
-<a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="Aircrack-ng"/></a>
-<a href="https://www.tcpdump.org/"><img src="https://img.shields.io/badge/Tcpdump-444444?style=for-the-badge&logo=linux&logoColor=white" alt="Tcpdump"/></a>
-<a href="https://greenbone.net/"><img src="https://img.shields.io/badge/OpenVAS-5E9E45?style=for-the-badge&logo=greenbone&logoColor=white" alt="OpenVAS"/></a>
-<a href="https://suricata.io/"><img src="https://img.shields.io/badge/Suricata-EF4934?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/></a>
-</p>
+\<div align="center">
+
+\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=sangram-net&show_icons=true&hide_border=true&bg_color=15191E&title_color=A3E635&icon_color=67E8F9&text_color=C9D1D9&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=sangram-net\&show_icons=true\&hide_border=true\&bg_color=15191E\&title_color=A3E635\&icon_color=67E8F9\&text_color=C9D1D9\&include_all_commits=true)" />
+
+\<img height="165" src="[https://github-readme-streak-stats.herokuapp.com/?user=sangram-net&hide_border=true&background=15191E&ring=A3E635&fire=67E8F9&currStreakLabel=A3E635&sideLabels=C9D1D9&dates=94A3B8](https://github-readme-streak-stats.herokuapp.com/?user=sangram-net\&hide_border=true\&background=15191E\&ring=A3E635\&fire=67E8F9\&currStreakLabel=A3E635\&sideLabels=C9D1D9\&dates=94A3B8)" />
+
+\<br/>
+
+\<img width="55%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sangram-net&layout=compact&hide_border=true&bg_color=15191E&title_color=A3E635&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=sangram-net\&layout=compact\&hide_border=true\&bg_color=15191E\&title_color=A3E635\&text_color=C9D1D9)" />
+
+\</div>
+
+---
+
+## `03 / CONTRIBUTION GRAPH`
+
+\<div align="center">
+
+\<img src="[https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/sangram-net/sangram-net/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Contribution Snake Animation"/>
+
+\</div>
+
+---
+
+## `04 / CURRENT FOCUS`
+
+```text
+[01] Python          ██████░░░░
+[02] C Programming   ████░░░░░░
+[03] Rust            ███░░░░░░░
+[04] JavaScript      ███░░░░░░░
+[05] Cybersecurity   █████░░░░░
+[06] Linux & Systems ██████░░░░
+```
+
+*Progress bars represent learning interests, not measured proficiency.*
+
+---
+
+## `05 / PROJECTS`
+
+\<div align="center">
+
+\<a href="[https://github.com/sangram-net?tab=repositories](https://github.com/sangram-net?tab=repositories)"> \<img src="[https://img.shields.io/badge/Explore_My_Repositories-202830?style=for-the-badge&logo=github&logoColor=A3E635](https://img.shields.io/badge/Explore_My_Repositories-202830?style=for-the-badge\&logo=github\&logoColor=A3E635)"/> \</a>
+
+\</div>
+
+---
+
+\<div align="center">
+
+### `THINK DEEP. BUILD SECURE. STAY CURIOUS.`
+
+\<img src="[https://komarev.com/ghpvc/?username=sangram-net&style=flat-square&color=A3E635&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=sangram-net\&style=flat-square\&color=A3E635\&label=PROFILE+VIEWS)"/>
+
+\<br/>
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:202830,100:15191E&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:202830,100:15191E\&height=100\&section=footer)"/>
+
+\</div>
