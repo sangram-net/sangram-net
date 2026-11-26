@@ -2,4 +2,4 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,c,rust,js,linux,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,rust,js,linux,docker,git,wireshark,nmap,burpsuite,owaspzap,sqlmap&theme=dark" />
